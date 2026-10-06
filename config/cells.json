@@ -1,0 +1,42 @@
+[
+  {
+    "name": "adder_x1",
+    "corner": "tt",
+    "netlist": "cells/adder_x1.scs"
+  },
+  {
+    "name": "and2_x1",
+    "corner": "ss",
+    "netlist": "cells/and2_x1.scs"
+  },
+  {
+    "name": "mux2_x1",
+    "corner": "ff",
+    "netlist": "cells/mux2_x1.scs"
+  },
+  {
+    "name": "inv_x1",
+    "corner": "tt",
+    "netlist": "cells/inv_x1.scs"
+  },
+  {
+    "name": "buf_x4",
+    "corner": "ff",
+    "netlist": "cells/buf_x4.scs"
+  },
+  {
+    "name": "nand2_x1",
+    "corner": "ss",
+    "netlist": "cells/nand2_x1.scs"
+  },
+  {
+    "name": "nor2_x1",
+    "corner": "tt",
+    "netlist": "cells/nor2_x1.scs"
+  },
+  {
+    "name": "xor2_x1",
+    "corner": "ff",
+    "netlist": "cells/xor2_x1.scs"
+  }
+]
